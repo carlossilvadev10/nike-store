@@ -158,7 +158,7 @@ const topRatedSales = {
         },
         {
             id: "0M0x6",
-            title: "Air Jordan PR3",
+            title: "Nike Air Jordan PR3",
             text: "Zapatillas de running para hombre",
             rating: "5+",
             btn: "Comprar ahora",
@@ -300,7 +300,7 @@ const story = {
             btn: "Leer más",
         },
         {
-            title: "Air Jordan Retro High OG",
+            title: "Nike Air Jordan Retro High OG",
             text: "La popular serie AJ1 presenta el clásico esquema de color 'Yellow Toe'. Tras su primera aparición hace cuatro años de la mano del músico Zach Myers, los fanáticos por fin podrán conseguir esta versión.",
             img: "https://sneakernews.com/wp-content/uploads/2022/03/yellow-toe-jordan-1-release-date-2.jpg",
             imgAlt: "news-4",
