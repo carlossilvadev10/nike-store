@@ -1,8 +1,8 @@
-import React, { use, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { HeartIcon, MagnifyingGlassIcon, ShoppingBagIcon } from "@heroicons/react/24/outline";
-import logo from "../../assets/logo.png";
 import { selectCartTotalQuantity, setOpenCart } from "../../app/CartSlice";
+import logo from "../../assets/logo.png";
 
 const Navbar = () => {
     const [navState, setNavState] = useState(false);
