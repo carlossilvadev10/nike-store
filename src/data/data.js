@@ -248,7 +248,7 @@ const highlight = {
     title: "Nike Air: Tu Estilo, Tu Elección",
     text: "Nuestra misión es mover el mundo hacia adelante. Actuamos construyendo comunidad, protegiendo nuestro planeta y aumentando el acceso al deporte.",
     btn: "Explorar más",
-    url: "https://www.nike.com/launch/t/nocta-hot-step-black-gold",
+    url: "https://www.nike.com/id/launch/t/nocta-hot-step-black-gold",
     img: highlightImg,
     imgAlt: "nike-air-con-opciones-ilimitadas"
 };

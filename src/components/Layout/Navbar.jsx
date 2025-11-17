@@ -27,7 +27,7 @@ const Navbar = () => {
     }, []);
 
     return (
-        <header className = {!navState ? "absolute top-7 right-0 left-0 opacity-100 z-50" : "fixed top-0 right-0 left-0 h-[9vh] flex items-center justify-center opacity-100 z-[100] blur-effect-theme"}>
+        <header className = {!navState ? "absolute top-7 right-0 left-0 opacity-100 z-50" : "fixed top-0 right-0 left-0 h-[9vh] flex items-center justify-center z-[100] backdrop-blur-md shadow-lg"}>
             <nav className = "nike-container flex items-center justify-between">
                 <div className = "flex items-center">
                     <img src = {logo} alt = "logo" className = {`w-16 h-auto ${navState && "filter brightness-0"}`} />
