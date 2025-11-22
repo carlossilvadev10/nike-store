@@ -18,7 +18,7 @@ const FlexContent = ({ endpoint: { heading, title, text, btn, url, img, imgAlt }
                         {btn}
                     </a>
                 </div>
-                <div className = "flex items-center justify-center w-full max-w-xl lg:max-w-none relative">
+                <div className = "flex items-center justify-center w-full mt-0 lg:mt-10 max-w-xl lg:max-w-none relative">
                     <img src = {img} alt = {imgAlt} className = {`w-auto object-fill transitions-theme ${ifExists ? "h-60 xsm:h-44 sm:h-48 md:h-52 lg:h-56 rotate-12 hover:rotate-0" : "h-68 xsm:h-52 sm:h-56 md:h-60 lg:h-64 rotate-12 hover:rotate-0"}`} />
                 </div>
             </div>
