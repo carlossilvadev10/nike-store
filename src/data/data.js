@@ -57,7 +57,7 @@ const popularSales = {
         {
             id: "0p0x1",
             title: "Nike Adapt BB 2.0",
-            text: "Zapatillas para correr para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "4.9",
             btn: "Comprar ahora",
             img: pSale2,
@@ -69,7 +69,7 @@ const popularSales = {
         {
             id: "0p0x2",
             title: "Nike Martine Rose",
-            text: "Zapatillas para correr para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "4.5",
             btn: "Comprar ahora",
             img: pSale1,
@@ -81,7 +81,7 @@ const popularSales = {
         {
             id: "0p0x3",
             title: "Nike Smart Shoe 2.0",
-            text: "Zapatillas para correr para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: pSale3,
@@ -99,7 +99,7 @@ const topRatedSales = {
         {
             id: "0M0x1",
             title: "Nike Air Low Premium",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product7,
@@ -111,7 +111,7 @@ const topRatedSales = {
         {
             id: "0M0x2",
             title: "Nike Air Force Green",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product2,
@@ -123,7 +123,7 @@ const topRatedSales = {
         {
             id: "0M0x3",
             title: "Nike Addapt BB Rose",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product3,
@@ -135,7 +135,7 @@ const topRatedSales = {
         {
             id: "0M0x4",
             title: "Nike Air Premium",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product4,
@@ -147,7 +147,7 @@ const topRatedSales = {
         {
             id: "0M0x5",
             title: "Nike Adapt BB Pro",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product5,
@@ -159,7 +159,7 @@ const topRatedSales = {
         {
             id: "0M0x6",
             title: "Nike Air Jordan PR3",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product6,
@@ -171,7 +171,7 @@ const topRatedSales = {
         {
             id: "0M0x7",
             title: "Nike Multi Smart Shoe",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product1,
@@ -183,7 +183,7 @@ const topRatedSales = {
         {
             id: "0M0x8",
             title: "Nike Jordan Air Max",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product9,
@@ -195,7 +195,7 @@ const topRatedSales = {
         {
             id: "0M0x9",
             title: "Nike Old Max-X",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product10,
@@ -207,7 +207,7 @@ const topRatedSales = {
         {
             id: "0M0x10",
             title: "Nike Lime Jordan 11",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product12,
@@ -219,7 +219,7 @@ const topRatedSales = {
         {
             id: "0M0x11",
             title: "Nike Air Black Max",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product11,
@@ -231,7 +231,7 @@ const topRatedSales = {
         {
             id: "0M0x12",
             title: "Nike Zoom Max",
-            text: "Zapatillas de running para hombre",
+            text: "Zapatillas de correr para hombre",
             rating: "5+",
             btn: "Comprar ahora",
             img: product8,
@@ -246,7 +246,7 @@ const topRatedSales = {
 const highlight = {
     heading: "Destacados",
     title: "Nike Air: Tu Estilo, Tu Elección",
-    text: "Nuestra misión es mover el mundo hacia adelante. Actuamos construyendo comunidad, protegiendo nuestro planeta y aumentando el acceso al deporte.",
+    text: "Nuestra misión es mover el mundo hacia adelante. Actuamos construyendo comunidades, protegiendo nuestro planeta y aumentando el acceso al deporte.",
     btn: "Explorar más",
     url: "https://www.nike.com/id/launch/t/nocta-hot-step-black-gold",
     img: highlightImg,
